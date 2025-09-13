@@ -1,4 +1,4 @@
-# Descripción
+# Descripción
 
 Este taller presencial tiene como objetivo demostra el proceso de construcción y 
 despliegue de modelos de machine learning.
